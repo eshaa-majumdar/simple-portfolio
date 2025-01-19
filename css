@@ -1,0 +1,32 @@
+body{
+    background-color: #ccc7f6;
+}
+h1{
+    color: black ;
+    border: 0cap;
+    font-style: italic;
+    text-align: center;
+    background-color: #85cdcd;
+}
+h2{
+    text-align: center;
+    background-color: #c693c8;
+    font font-family:Georgia 
+    font-style: italic;
+}
+img{
+    text-align: center;
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+}
+p{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-size-adjust: 30%;
+}
+section{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-size-adjust: 30%;
+}
